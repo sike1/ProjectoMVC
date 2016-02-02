@@ -1,0 +1,72 @@
+body{
+	background-image: url('images/image1.jpg');
+	overflow: hidden;
+}
+
+#p1{
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 35px;
+	margin-top: 5%;
+	float: left;
+	margin-left: 25%;
+	
+	color: white;
+ 
+    			text-shadow:
+   			-1px -1px 0 #3652a9,
+   			 1px -1px 0 #3652a9,
+   			-1px 1px 0 #3652a9,
+    			1px 1px 0 #3652a9;
+}
+
+#div2{
+	float: left;
+	/*border: 1px solid white;*/
+	width: 90%;
+	height: 85%;
+	margin-left: 0.5%;
+	padding-left: 5%;
+	padding-bottom: 5%;
+}
+
+#div3{
+	background-image: url('images/pizarra.png');
+	float: left;
+	width: 50%;
+	height: 53%;
+	margin-top: 5%;
+	margin-left: 25%;
+	box-shadow: 4px 4px 6px #474546;
+	
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+p{
+	font-size: 30px;
+	font-family: Arial;
+	font-weight: bold;
+	color: white;
+	margin: 4%;
+}
+
+#img2{
+	float: right;
+	position: relative;
+	width: 10.5%;
+	height: 20%;
+	margin-top: 31%;
+	margin-right: 3%;
+}
+
+#img3{
+	position: relative;
+	float: right;
+	width: 8%;
+	height: 15%;
+	margin-top: 2%;
+	margin-right: 75%;
+}
