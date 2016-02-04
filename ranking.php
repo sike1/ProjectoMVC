@@ -1,5 +1,4 @@
 <?php
-
 $host = 'localhost';
 $usuario = 'usuario';		//usuario
 $pass = 'usuario';
