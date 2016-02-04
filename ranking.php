@@ -1,5 +1,5 @@
 <?php
-//holaaaaaaaaaaa
+
 $host = 'localhost';
 $usuario = 'usuario';		//usuario maricona
 $pass = 'usuario';
