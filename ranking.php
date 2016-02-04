@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$usuario = 'usuario';		//usuario
+$usuario = 'usuario';		//usuario maricona
 $pass = 'usuario';
 
 $conexion = mysql_connect ($host,$usuario,$pass) or die ("Ha sido imposible realizar la conexión a la Base de Datos");
